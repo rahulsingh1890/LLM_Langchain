@@ -71,3 +71,4 @@ streamlit run main.py
 - main.py: The main Streamlit application script.
 - langchain_helper.py: This has all the langchain code
 - few_shots.py: Contains few shot prompts
+- .env: Configuration file for storing your Google API key.
